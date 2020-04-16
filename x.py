@@ -21,5 +21,5 @@ patt1 = r"(\d)(?=\d\1)"
 
 print(re.findall(patt1,N))
 
-
+print()
         
